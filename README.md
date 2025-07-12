@@ -101,7 +101,7 @@ verifyDocument(1, "QmHash...");
 
 ## 📦 Contract ABI & Address
 
-- **Contract Address (Sepolia):** `0x...` (replace with actual address)
+- **Contract Address (Sepolia):** `0xf9225ef9648d273db99a71A2F11255329C31832a` (replace with actual address)
 - **ABI:** See `artifacts/contracts/DocumentRegistry.json`
 
 ---
@@ -132,4 +132,4 @@ MIT License. See `LICENSE` file for details.
 
 ## 📬 Contact
 
-For questions or support, open an issue or contact the maintainer at [your-email@example.com].
+For questions or support, open an issue.

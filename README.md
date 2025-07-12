@@ -101,7 +101,7 @@ verifyDocument(1, "QmHash...");
 
 ## 📦 Contract ABI & Address
 
-- **Contract Address (Sepolia):** `0xf9225ef9648d273db99a71A2F11255329C31832a` (replace with actual address)
+- **Contract Address (Sepolia):** `0xf9225ef9648d273db99a71A2F11255329C31832a`
 - **ABI:** See `artifacts/contracts/DocumentRegistry.json`
 
 ---
